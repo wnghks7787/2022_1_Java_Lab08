@@ -18,7 +18,7 @@ public class MathDriver {
 
     /**
      * run method
-     * @param args Username, calculation, numbers what you wnat to calculate
+     * @param args Username, calculation, numbers what you want to calculate
      */
     public void run(String[] args) {
 
