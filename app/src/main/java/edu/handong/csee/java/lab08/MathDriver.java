@@ -1,6 +1,6 @@
 package edu.handong.csee.java.lab08;
 
-import edu.handong.csee.java.hw2.math.MathCalculator;
+import edu.handong.csee.java.lab08.math.MathCalculator;
 
 /**
  * Main class of MathDriver

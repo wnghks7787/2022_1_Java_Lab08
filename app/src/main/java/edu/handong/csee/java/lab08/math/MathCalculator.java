@@ -1,4 +1,4 @@
-package edu.handong.csee.java.hw2.math;
+package edu.handong.csee.java.lab08.math;
 
 /**
  * Class of Math Calculator
